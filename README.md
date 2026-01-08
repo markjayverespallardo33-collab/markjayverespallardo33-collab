@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Jayver
 
 🚀 Passionate Developer | 💻 Software Engineer | 🌱 Lifelong Learner  
 
@@ -30,7 +30,7 @@ I enjoy building applications, learning new technologies, and solving real-world
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/
 - LinkedIn: https://linkedin.com/in/YOUR_PROFILE
 - Email: your.email@example.com
 
