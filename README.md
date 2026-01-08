@@ -24,11 +24,6 @@ I enjoy building applications, learning new technologies, and solving real-world
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 - GitHub: https://github.com/
 - LinkedIn: https://linkedin.com/in/YOUR_PROFILE
@@ -37,3 +32,9 @@ I enjoy building applications, learning new technologies, and solving real-world
 ---
 
 ⭐ *Feel free to explore my repositories and leave a star if you like my work!*
+
+
+---
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-fawn-two-67.vercel.app/api?username=markjayverespallardo33-collab&show_icons=true&theme=radical)
